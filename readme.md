@@ -6,6 +6,14 @@ Welcome to my GitHub profile! I'm a dedicated system administrator with over 15 
 
 ---
 
+### 📜 **Certifications**  
+- **Red Hat Certified System Administrator (RHCSA)**  
+  *September 2024*  
+- **CompTIA A+**  
+  *January 2024*  
+
+---
+
 ### 🔧 **Skills**  
 <p>
   <img src="https://img.shields.io/badge/Linux-%23323330.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
